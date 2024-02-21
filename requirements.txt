@@ -1,0 +1,15 @@
+# Python version
+python>=3.6
+
+# Pandas for data manipulation
+pandas==1.3.3
+
+# Numpy for numerical operations
+numpy==1.21.2
+
+#matplotlib
+
+#seaborn
+
+# Scipy for statistical functions
+scipy==1.7.1
